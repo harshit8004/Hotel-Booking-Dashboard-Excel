@@ -1,4 +1,4 @@
-### Hotel-Booking-Dashboard-Excel
+# Hotel-Booking-Dashboard-Excel
 Excel Dashboard analyzing hotel bookings, revenue, room types, booking status, and country-wise performance.
 
 This project is an Excel-based interactive dashboard that provides insights into hotel bookings, revenue generation, room types, booking status, and country-wise performance.
